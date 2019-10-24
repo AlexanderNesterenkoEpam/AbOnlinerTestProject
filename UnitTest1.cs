@@ -15,8 +15,11 @@ namespace UnitTestProject1
             dr = new DriverCreator();
         }
 
+        /// <summary>
+        /// The first test 
+        /// </summary>
         [Test]
-        public void TestAutoTitleTest()
+        public void AutoTitleTest()
         {
             const string ExpectedTitle = "Автобарахолка";
 
