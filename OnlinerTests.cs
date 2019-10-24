@@ -16,7 +16,7 @@ namespace UnitTestProject1
         }
 
         /// <summary>
-        /// The first test 
+        /// The first test - test case #1
         /// </summary>
         [Test]
         public void AutoTitleTest()
