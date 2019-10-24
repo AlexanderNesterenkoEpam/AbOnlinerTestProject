@@ -5,7 +5,7 @@ using OpenQA.Selenium.Chrome;
 namespace UnitTestProject1
 {
     [TestFixture]
-    public class UnitTest1
+    public class OnlinerTests
     {
         DriverCreator dr;
 
