@@ -15,6 +15,9 @@ namespace UnitTestProject1
             dr = new DriverCreator();
         }
 
+        /// <summary>
+        /// Summary
+        /// </summary>
         [Test]
         public void TestAutoTitleTest()
         {
